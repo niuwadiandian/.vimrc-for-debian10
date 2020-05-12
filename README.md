@@ -1,7 +1,8 @@
 ### .vimrc-for-debian10
 + Here are some settings of vim in debian10.
 + You can copy the follow contents to .vimrc <b>without any plug-ins</b>.
-+ <p>
++ 内容来自于<a href = "https://blog.csdn.net/u013920085/article/details/46953293?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase">zhnlion2015年在CSDN的一篇博客</a>
+
 syntax on "自动语法高亮
 "winpos 5 5          " 设定窗口位置  
 "set lines=40 columns=155    " 设定窗口大小  
@@ -238,7 +239,7 @@ let g:miniBufExplMapWindowNavVim = 1
 let g:miniBufExplMapWindowNavArrows = 1
 let g:miniBufExplMapCTabSwitchBufs = 1 
 let g:miniBufExplModSelTarget = 1
-</p>
+
 
  
 
