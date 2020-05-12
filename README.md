@@ -1,11 +1,11 @@
 ### .vimrc-for-debian10
-#settings of vim in debian10
-+ {
++ Here are some settings of vim in debian10.
++ You can copy the follow contents to .vimrc without any <u>plug-ins</u>.
+
 syntax on "自动语法高亮
 "winpos 5 5          " 设定窗口位置  
 "set lines=40 columns=155    " 设定窗口大小  
 set nu              " 显示行号  
-}
 set go=             " 不要图形按钮  
 "color asmanian2     " 设置背景主题  
 set guifont=Courier_New:h10:cANSI   " 设置字体  
