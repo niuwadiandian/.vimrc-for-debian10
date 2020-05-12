@@ -1,7 +1,8 @@
 ### .vimrc-for-debian10
 + Here are some settings of vim in debian10.
 + You can copy the follow contents to .vimrc <b>without any plug-ins</b>.
-+ If there is no file named <b>.vimrc</b>  exists in path <b>/home/username/ (or ~/)</b> ,you can creat the file <b>named .vimrc</b> by yourself.
++ If there is no file named <b>.vimrc</b> existing in path <b>/home/username/ (or ~/)</b> ,you can creat the file <b>named .vimrc</b> by yourself.
++ Note: the role of symbol ‘ “ ’ in .vimrc  is same as ' // ' in C and ' # ' in matlab.(content) 
 + 内容来自于<a href = "https://blog.csdn.net/u013920085/article/details/46953293?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase">zhnlion于2015年在CSDN发表的一篇博客</a>
 
 syntax on "自动语法高亮
