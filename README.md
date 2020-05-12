@@ -1,4 +1,5 @@
-### .vimrc-for-debian10
+### .vimrc-for-linux
++ Wide applicability
 + Here are some settings of vim in debian10.
 + You can copy the follow contents to .vimrc <b>without any plug-ins</b>.
 + If there is no file named <b>.vimrc</b> existing in path <b>/home/username/ (or ~/)</b> ,you can creat the file <b>named .vimrc</b> by yourself.
