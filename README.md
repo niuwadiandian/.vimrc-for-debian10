@@ -1,6 +1,6 @@
 ### .vimrc-for-debian10
 + Here are some settings of vim in debian10.
-+ You can copy the follow contents to .vimrc without any <u>plug-ins</u>.
++ You can copy the follow contents to .vimrc without any <b>plug-ins</b>.
 
 syntax on "自动语法高亮
 "winpos 5 5          " 设定窗口位置  
