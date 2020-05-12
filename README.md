@@ -4,7 +4,7 @@
 + If there is no file named <b>.vimrc</b> existing in path <b>/home/username/ (or ~/)</b> ,you can creat the file <b>named .vimrc</b> by yourself.
 + Note: the role of symbol ‘ “ ’ in .vimrc  is same as ' // ' in C and ' # ' in matlab.(content) 
 + 内容来自于<a href = "https://blog.csdn.net/u013920085/article/details/46953293?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase">zhnlion于2015年在CSDN发表的一篇博客</a>
-
+```
 syntax on "自动语法高亮
 "winpos 5 5          " 设定窗口位置  
 "set lines=40 columns=155    " 设定窗口大小  
@@ -241,6 +241,7 @@ let g:miniBufExplMapWindowNavVim = 1
 let g:miniBufExplMapWindowNavArrows = 1
 let g:miniBufExplMapCTabSwitchBufs = 1 
 let g:miniBufExplModSelTarget = 1
+```
 
 
  
